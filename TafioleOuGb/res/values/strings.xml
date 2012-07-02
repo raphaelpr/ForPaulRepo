@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    <string name="main_title">Android Sudoku</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    <string name="about_text">\
+	    This game was originaly made for the wedding of Paul Terrien.
+	    To see wether or not he is a tafiole.
+	</string>
+    <string name="about_title">About \'Tafiole Ou Grosse Bite\'</string>
+    <string name="settings_label">Settings...</string>
+    <string name="settings_title">TOGB settings</string>
+    <string name="settings_shortcut">s</string>
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play background music</string>
+    <string name="hints_title">Hints</string>
+    <string name="hints_summary">Show hints during play</string>
+
+</resources>
